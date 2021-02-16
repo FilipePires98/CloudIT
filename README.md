@@ -43,8 +43,22 @@ mobile_app - CloudIT's Android application.
 
 rest_api - configuration files for the docker container that hosts the platform's REST API.
 
+## Additional Resources:
+
+![componentdiagram](https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Architecture/Component_Diagram.png)
+
+Component Diagram.
+
+![cicddiagram](https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Quality/ci_cd_diagram.jpg)
+
+CI&CD Diagram.
+
+![usecasediagram](https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/UseCase/UseCase_Diagram.png)
+
+Use Case Diagram.
+
 ## Authors:
 
-The authors of this repository are [André Pedrosa](https://github.com/aspedrosa), [André Brandão](https://github.com/adebna), [Filipe Pires](https://github.com/FilipePires98) and [João Alegria](https://github.com/joao-alegria), and the project was developed for the Computational Infrastructures Management Course of the Master's degree in Informatics Engineering of the University of Aveiro.
+The authors of this repository are [André Pedrosa](https://github.com/aspedrosa), [André Brandão](https://github.com/adebna), [Filipe Pires](https://github.com/FilipePires98) and [João Alegria](https://github.com/joao-alegria), and the project was developed for the Software Testing & Quality Course of the bachelor's degree in Informatics Engineering of the University of Aveiro.
 
-For further information, please read our [report](https://github.com/FilipePires98/GIC/blob/master/docs/reports/FinalReport/report.pdf) or contact us at filipesnetopires@ua.pt or joao.p@ua.pt.
+For further information, please read our [reports](https://github.com/FilipePires98/CloudIT/tree/master/docs/Reports) or contact us.
