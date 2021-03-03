@@ -1,15 +1,16 @@
 # CloudIT 
+an online platform for IT freelancers and enterprises
 
 <img src="CloudIT_logo.png" width="240px">
 
-## Description:
+## Description
 
 This project allows the deployment and management of CloudIT - an online platform that abstracts the concept of hiring, providing freedom to the employer to find the qualified professional for the execution of specific tasks.
 
 The platform is for IT freelancers that are interested in working in the field for particular projects and IT enterprises interested in hiring temporary employees (outsourcing). 
 CloudIT is an aggregation system that optimizes hiring processes.
 
-## Continuous Integration & Continuous Delivery: 
+## Continuous Integration & Continuous Delivery
 
 Version Control and Code Management: GitHub (W/ pull requests).
 
@@ -21,7 +22,7 @@ Code Static Analysis: SonarQube.
 
 Team Communication: Slack (w/ plugins for GitHub, Jenkins and PivotalTracker).
 
-## Software Testing & Quality Assurance:
+## Software Testing & Quality Assurance
 
 Functional/Acceptance: Selenium, Cucumber and Espresso.
 
@@ -43,7 +44,7 @@ mobile_app - CloudIT's Android application.
 
 rest_api - configuration files for the docker container that hosts the platform's REST API.
 
-## Additional Resources:
+## Additional Resources
 
 <img src="https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Architecture/Component_Diagram.png" width="480px">
 
@@ -57,7 +58,7 @@ CI&CD Diagram.
 
 Use Case Diagram.
 
-## Authors:
+## Authors
 
 The authors of this repository are [André Pedrosa](https://github.com/aspedrosa), [André Brandão](https://github.com/adebna), [Filipe Pires](https://github.com/FilipePires98) and [João Alegria](https://github.com/joao-alegria), and the project was developed for the Software Testing & Quality Course of the bachelor's degree in Informatics Engineering of the University of Aveiro.
 
