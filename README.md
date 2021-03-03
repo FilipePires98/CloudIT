@@ -1,6 +1,6 @@
 # CloudIT 
 
-<img src="CloudIT_logo.png" width="120px">
+<img src="CloudIT_logo.png" width="240px">
 
 ## Description:
 
@@ -45,15 +45,15 @@ rest_api - configuration files for the docker container that hosts the platform'
 
 ## Additional Resources:
 
-![componentdiagram](https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Architecture/Component_Diagram.png)
+<img src="https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Architecture/Component_Diagram.png" width="480px">
 
 Component Diagram.
 
-![cicddiagram](https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Quality/ci_cd_diagram.jpg)
+<img src="https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/Quality/ci_cd_diagram.jpg" width="480px">
 
 CI&CD Diagram.
 
-![usecasediagram](https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/UseCase/UseCase_Diagram.png)
+<img src="https://github.com/FilipePires98/CloudIT/blob/master/docs/Diagrams_and_Models/UseCase/UseCase_Diagram.png" width="540px">
 
 Use Case Diagram.
 
