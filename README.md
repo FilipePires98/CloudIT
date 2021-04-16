@@ -1,6 +1,15 @@
 # CloudIT 
 an online platform for IT freelancers and enterprises
 
+![](https://img.shields.io/badge/Tests-passing-success)
+![](https://img.shields.io/badge/Jenkins%20Build-passing-success)
+![](https://img.shields.io/badge/Made%20With-Java-red)
+![](https://img.shields.io/badge/Made%20With-Spring%20Boot-red)
+![](https://img.shields.io/badge/Deployment-Docker-blue)
+![](https://img.shields.io/badge/Platform-Web-blue)
+![](https://img.shields.io/badge/Platform-Mobile-blue)
+![](https://img.shields.io/badge/License-MIT-lightgrey)
+
 <img src="CloudIT_logo.png" width="240px">
 
 ## Description
